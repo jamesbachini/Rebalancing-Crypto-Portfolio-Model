@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "ccxt": "^4.4.37",
+    "dayjs": "^1.11.13",
+    "fs": "^0.0.1-security"
+  }
+}

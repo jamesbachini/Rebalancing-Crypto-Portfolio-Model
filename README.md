@@ -1,5 +1,7 @@
 # Rebalancing Model For Bitcoin, Ethereum & USD Portfolios
 
+There's a full write up about this here: https://jamesbachini.com/rebalancing-portfolio/
+
 This code was used to try and find out how often I should be rebalancing a portfolio containing:
 
 40% USDC
@@ -55,3 +57,14 @@ Average final portfolio value: $118626.35
 
 --- 10000 random 4-year periods at interval=730 days ---
 Average final portfolio value: $110165.96
+
+
+## Links
+
+- [Website](https://jamesbachini.com)
+- [YouTube](https://www.youtube.com/c/JamesBachini?sub_confirmation=1)
+- [Substack](https://bachini.substack.com)
+- [Podcast](https://podcasters.spotify.com/pod/show/jamesbachini)
+- [Twitter](https://twitter.com/james_bachini)
+- [LinkedIn](https://www.linkedin.com/in/james-bachini/)
+- [GitHub](https://github.com/jamesbachini)
